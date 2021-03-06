@@ -1,0 +1,75 @@
+body{
+    font-family:'Architects Daughter', cursive;
+    background-color: teal;
+}
+.container{
+    text-align: center;
+    
+    font-weight: bold;
+    
+
+}
+h1{
+    text-shadow: 3px 0 #DA0463;
+    font-family:'Architects Daughter', cursive;
+    font-size: 7rem;
+    color:#DBEDF3 ;
+
+
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+.btn{
+    text-shadow: 6px 0 #DA0463;
+    font-size: 5rem;
+    height: 160px;
+    width: 160px;
+    text-align: center;
+    margin: 10px;
+    padding:10px ;
+    font-size: 5rem;
+    font-family:'Architects Daughter', cursive ;
+    border-radius: 10px;
+    color: pink;
+    font-weight: bold;
+    background-color: white;
+    border: 3px solid rgb(20, 48, 48);
+
+}
+
+.buttons .w{
+    background: url('tom1.png');
+}
+.buttons .a{
+    background: url('tom2.png');
+}
+.buttons .s{
+    background: url('tom3.png');
+}
+.buttons .d{
+    background: url('tom4.png');
+}
+.buttons .j{
+    background: url('snare.png');
+}
+.buttons .k{
+    background: url('crash.png');
+}
+.buttons .l{
+    background: url('kick.png');
+}
+
+.foot{
+    text-align: center;
+    margin-top: 90px;
+    color: white;
+    font-weight: 500;
+
+}
+.animation{
+    box-shadow: 0 3px 4px #DBEDF3;
+    opacity: 0.5;
+}
