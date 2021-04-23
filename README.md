@@ -1,2 +1,2 @@
 # DrumKit-Web-app
-A web app that produces different sound on pressing particular keys which shows on various buttons of drumKits.
+A web app made with Javascript and HTML, CSS that produces different sound on pressing particular keys on keyboard or by clicking the button/images on screen.
